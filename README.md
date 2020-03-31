@@ -1,3 +1,2 @@
 # first-repo
-Creating my first repository.
-Checking commit.
+Creating my first repository
